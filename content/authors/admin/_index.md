@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Jiarong Lin 林家荣
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Jiarong
+last_name: Lin
 
 # Status emoji
 status:
@@ -14,7 +14,8 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+#role: Professor of Artificial Intelligence
+role: Ph.D. student in Robotics
 
 # Organizations/Affiliations to show in About widget
 organizations:
